@@ -53,4 +53,4 @@ is_num(v)  is_str(v)  is_list(v)  is_func(v)
 printxy(v)  input()  input_int()  clear()
 null / false = 0     true = 1     math_pi``
 
-(also tysm to @codepulse on yt his videos helped me understand things alot more easier)
+(also tysm to @codepulse on yt his videos helped me understand things alot more understandable for me to go my own direction with this) 
